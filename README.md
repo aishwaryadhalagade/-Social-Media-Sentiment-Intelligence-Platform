@@ -1,4 +1,4 @@
-## Social Media Sentiment Intelligence Platform
+## Social Media Sentiment Intelligence
 
 ## Project Overview
 
